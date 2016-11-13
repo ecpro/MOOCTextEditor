@@ -3,9 +3,7 @@
  */
 package spelling;
 
-import static org.junit.Assert.*;
-
-import java.util.LinkedList;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
